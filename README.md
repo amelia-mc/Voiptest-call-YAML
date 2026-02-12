@@ -220,18 +220,6 @@ Early users: feedback (even negative) is very welcome via Issues or DM.
 
 ---
 
-# 🧑‍💻 Author
-**Heni Wael (Neurahex)**  
-GitHub: https://github.com/waheni  
-Email: *waelheni@neurahex.com*
-
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE)
-
----
 
 ## ❤️ Final Note
 
